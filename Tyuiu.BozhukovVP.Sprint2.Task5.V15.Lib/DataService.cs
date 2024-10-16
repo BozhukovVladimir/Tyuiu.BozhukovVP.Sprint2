@@ -6,6 +6,7 @@ namespace Tyuiu.BozhukovVP.Sprint2.Task5.V15.Lib
         public string FindDayName(int k)
         {
             string res;
+            k = k % 7;
             switch (k)
             {
                 case 1:

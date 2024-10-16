@@ -30,7 +30,6 @@ namespace Tyuiu.BozhukovVP.Sprint2.Task5.V15
             }
             else
             {
-                numDay= numDay % 7;
                 res = "Это день недели: " + ds.FindDayName(numDay);
             }
             Console.WriteLine("***************************************************************************");
