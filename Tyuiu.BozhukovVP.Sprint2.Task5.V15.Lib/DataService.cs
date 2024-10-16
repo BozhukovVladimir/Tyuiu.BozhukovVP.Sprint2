@@ -24,7 +24,7 @@ namespace Tyuiu.BozhukovVP.Sprint2.Task5.V15.Lib
                     res = "пятница";
                     break;
                 case 6:
-                    res = "Cуббота";
+                    res = "Суббота";
                     break;
                 case 7:
                     res = "воскресенье";
